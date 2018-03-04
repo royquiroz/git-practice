@@ -1,0 +1,3 @@
+Name: Gonzalo Quiroz
+Age: 27
+Favorite Color: Red
